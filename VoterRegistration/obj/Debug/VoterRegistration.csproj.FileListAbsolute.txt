@@ -1,0 +1,170 @@
+C:\Users\nokaro\source\repos\VoterRegistration\bin\VoterRegistration.dll.config
+C:\Users\nokaro\source\repos\VoterRegistration\bin\VoterRegistration.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\VoterRegistration.pdb
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\csc.exe
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\csc.exe.config
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\csc.rsp
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\csi.exe
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\csi.exe.config
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\csi.rsp
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.AppContext.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Console.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.IO.Compression.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.IO.Pipes.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Security.Claims.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.ValueTuple.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\vbc.exe
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\vbc.exe.config
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\vbc.rsp
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\VBCSCompiler.exe
+C:\Users\nokaro\source\repos\VoterRegistration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nokaro\source\repos\VoterRegistration\bin\Antlr3.Runtime.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\Newtonsoft.Json.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Net.Http.Formatting.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Helpers.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Http.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Http.WebHost.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Mvc.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Optimization.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Razor.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.WebPages.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.WebPages.Razor.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\WebGrease.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\Newtonsoft.Json.xml
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Net.Http.Formatting.xml
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Helpers.xml
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Http.xml
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Http.WebHost.xml
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Mvc.xml
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Optimization.xml
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.Razor.xml
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.WebPages.xml
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nokaro\source\repos\VoterRegistration\bin\System.Web.WebPages.Razor.xml
+C:\Users\nokaro\source\repos\VoterRegistration\bin\Antlr3.Runtime.pdb
+C:\Users\nokaro\source\repos\VoterRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nokaro\source\repos\VoterRegistration\obj\Debug\VoterRegistration.csprojAssemblyReference.cache
+C:\Users\nokaro\source\repos\VoterRegistration\obj\Debug\VoterRegistration.csproj.CopyComplete
+C:\Users\nokaro\source\repos\VoterRegistration\obj\Debug\VoterRegistration.dll
+C:\Users\nokaro\source\repos\VoterRegistration\obj\Debug\VoterRegistration.pdb
+C:\Users\nokaro\source\repos\VoterRegistration\bin\VoterRegistration.Data.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\Oracle.ManagedDataAccess.dll
+C:\Users\nokaro\source\repos\VoterRegistration\bin\VoterRegistration.Data.pdb
+C:\Users\nokaro\source\repos\VoterRegistration\bin\VoterRegistration.Data.dll.config
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\VoterRegistration.dll.config
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\VoterRegistration.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\VoterRegistration.pdb
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\csc.exe
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\csc.exe.config
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\csc.rsp
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\csi.exe
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\csi.exe.config
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\csi.rsp
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\Microsoft.Managed.Core.targets
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.AppContext.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Collections.Immutable.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Console.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.IO.Compression.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.IO.FileSystem.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.IO.Pipes.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Reflection.Metadata.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Security.AccessControl.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Security.Claims.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Security.Principal.Windows.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.ValueTuple.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Xml.XmlDocument.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Xml.XPath.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\vbc.exe
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\vbc.exe.config
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\vbc.rsp
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\VBCSCompiler.exe
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\roslyn\VBCSCompiler.exe.config
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\Antlr3.Runtime.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\Microsoft.Web.Infrastructure.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\Newtonsoft.Json.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Net.Http.Formatting.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Helpers.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Http.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Http.WebHost.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Mvc.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Optimization.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Razor.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.WebPages.Deployment.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.WebPages.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.WebPages.Razor.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\VoterRegistration.Data.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\WebGrease.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\Oracle.ManagedDataAccess.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\VoterRegistration.Data.pdb
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\VoterRegistration.Data.dll.config
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\Newtonsoft.Json.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Net.Http.Formatting.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Helpers.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Http.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Http.WebHost.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Mvc.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Optimization.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.Razor.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.WebPages.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.WebPages.Deployment.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\System.Web.WebPages.Razor.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\Antlr3.Runtime.pdb
+C:\docs\Nnabike Okaro - Project\VoterRegistration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\docs\Nnabike Okaro - Project\VoterRegistration\obj\Debug\VoterRegistration.csprojAssemblyReference.cache
+C:\docs\Nnabike Okaro - Project\VoterRegistration\obj\Debug\VoterRegistration.csproj.CopyComplete
+C:\docs\Nnabike Okaro - Project\VoterRegistration\obj\Debug\VoterRegistration.dll
+C:\docs\Nnabike Okaro - Project\VoterRegistration\obj\Debug\VoterRegistration.pdb

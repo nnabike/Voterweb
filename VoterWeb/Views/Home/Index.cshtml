@@ -1,0 +1,32 @@
+﻿@model VoterWeb.Models.VoterViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+@using (Html.BeginForm("UpdateName", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    <h2>Sample Voter record</h2>
+    <div>
+
+        <h4>
+            Your registered name is : <span style="color:darkblue">@Model.Name</span><br />
+        </h4>
+
+        <p />
+        To update, edit the entry in the textbox and submit the change below.
+        <div style="width:400px;height:100px;border:1px solid #000; padding:20px;">
+            <p>
+                Voter Name:
+                @Html.TextBoxFor(model => model.Name)
+            </p>
+            @Html.HiddenFor(model => model.VoterId)
+            <p><input type="submit" value="Update" /></p>
+            <div style="margin-top:22px;">
+                <p style="color:red">@Model.Message</p>
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            </div>
+        </div>
+    </div>
+}
+

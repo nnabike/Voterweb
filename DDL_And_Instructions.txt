@@ -1,0 +1,12 @@
+1. Run these Commands on an existing database to create tables and stored procedures.
+
+CREATE TABLE Voters ( voterid NUMBER(5) Primary Key, name VARCHAR(50) NOT NULL, registration_state VARCHAR(30) DEFAULT(NULL))
+
+INSERT INTO Voters(voterid, name, registration_state) VALUES (1, 'Ricky', 'Ohio')
+
+CREATE OR REPLACE PROCEDURE UpdateVoter(p_voterid IN number, p_voterName IN varchar2) AS BEGIN UPDATE Voters SET name = p_votername WHERE voterid = p_voterid; COMMIT; END UpdateVoter;
+
+CREATE OR REPLACE PROCEDURE GetVoter(voterid IN number, out_name OUT varchar2) AS BEGIN SELECT name INTO out_name FROM Voters WHERE voterid = voterid;END GetVoter;
+
+2. In the web config of the VoterRegistration change the connectionstring to match your database connection string.
+   (Hostname, user and password and service name)

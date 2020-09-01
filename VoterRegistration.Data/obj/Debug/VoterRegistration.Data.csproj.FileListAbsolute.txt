@@ -1,0 +1,8 @@
+C:\Users\nokaro\source\repos\VoterRegistration.Data\obj\Debug\VoterRegistration.Data.csprojAssemblyReference.cache
+C:\Users\nokaro\source\repos\VoterRegistration.Data\bin\Debug\VoterRegistration.Data.dll.config
+C:\Users\nokaro\source\repos\VoterRegistration.Data\bin\Debug\VoterRegistration.Data.dll
+C:\Users\nokaro\source\repos\VoterRegistration.Data\bin\Debug\VoterRegistration.Data.pdb
+C:\Users\nokaro\source\repos\VoterRegistration.Data\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\nokaro\source\repos\VoterRegistration.Data\obj\Debug\VoterRegistration.Data.csproj.CopyComplete
+C:\Users\nokaro\source\repos\VoterRegistration.Data\obj\Debug\VoterRegistration.Data.dll
+C:\Users\nokaro\source\repos\VoterRegistration.Data\obj\Debug\VoterRegistration.Data.pdb
